@@ -1,1 +1,2 @@
 # scala
+To practice scala
